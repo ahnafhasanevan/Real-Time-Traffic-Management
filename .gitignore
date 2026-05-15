@@ -1,1 +1,4 @@
 config.php cache/ logs/ .env
+api keys.txt
+*.txt
+.env
